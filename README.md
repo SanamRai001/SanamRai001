@@ -4,18 +4,13 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        > whoami                                              ║
-║        Sanam Rai — Backend Dev & Security Enthusiast         ║
-║        Location: Nepal  🇳🇵                                  ║
-║        Status: Building. Learning. Breaking (ethically).     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Sanam%20Rai&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Backend%20Developer%20%7C%20IT%20Student%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=60&descSize=18&descColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;IT+Student+%40+Nepal+%F0%9F%87%B3%F0%9F%87%B5;SQL+Injection+%E2%86%92+PortSwigger+Labs+%E2%9C%85;Currently+Building+BBMS+%F0%9F%A9%B8" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Node.js+%7C+Express+%7C+MySQL+%7C+React;IT+Student+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Always+learning%2C+always+building." alt="Typing SVG" />
 
 </div>
 
@@ -30,12 +25,10 @@ location    : Nepal 🇳🇵
 role        : IT Student + Backend Developer
 interests   :
   - Backend systems & API architecture
-  - Cybersecurity & Ethical Hacking
   - Database design & query optimization
-  - Web application security research
-currently   : Building a Blood Bank Management System (BBMS)
-learning    : Advanced web exploitation techniques
-philosophy  : "Understand the system. Then secure it. Then break it — ethically."
+  - Web application security (curious learner)
+currently   : Building & exploring
+philosophy  : "Write clean code. Understand how things work. Keep building."
 ```
 
 ---
@@ -44,14 +37,12 @@ philosophy  : "Understand the system. Then secure it. Then break it — ethicall
 
 <div align="center">
 
-| Module | Status | Version |
+| Module | Status | Stack |
 |---|---|---|
 | ⚙️ Backend Engine | `RUNNING` | Node.js + Express |
 | 🗄️ Database Layer | `CONNECTED` | MySQL |
-| 🛡️ Security Mode | `ACTIVE` | Ethical Hacking |
-| 🩸 BBMS Project | `IN PROGRESS` | v0.8.1-beta |
-| ☕ Coffee Level | `CRITICAL — REFILLING` | `∞` |
 | 🧠 Learning Mode | `ALWAYS ON` | — |
+| 🌐 Frontend | `FUNCTIONAL` | React + JS |
 
 </div>
 
@@ -74,52 +65,27 @@ philosophy  : "Understand the system. Then secure it. Then break it — ethicall
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**— Security & Tools —**
+**— Tools —**
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## `$ ls ./projects/`
+## `$ cat certifications.txt`
 
-### 🩸 Blood Bank Management System `[ACTIVE]`
-> A full-stack web application to manage blood donation, inventory tracking, and donor records.
+<div align="center">
 
-```
-Tech  : Node.js · Express · MySQL · React
-Status: 🔨 In active development
-Goal  : Solve real blood supply coordination problems in Nepal
-Arch  : RESTful API backend + React frontend + MySQL relational DB
-```
+![CS50x](https://img.shields.io/badge/Harvard%20CS50x-Introduction%20to%20CS-A51C30?style=for-the-badge&logo=edx&logoColor=white)
+![CS50P](https://img.shields.io/badge/Harvard%20CS50P-Python%20Programming-A51C30?style=for-the-badge&logo=python&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-SQL%20Injection%20Labs-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
----
-
-## `$ cat ./cybersec/journey.log`
-
-```
-[*] Started with curiosity about "how things break"...
-[*] Enrolled in PortSwigger Web Security Academy
-[+] Completed: SQL Injection Labs ✅
-    ├── In-band SQLi (UNION-based)
-    ├── Blind SQLi (Boolean & Time-based)
-    └── SQLi with authentication bypass
-[~] Currently exploring: XSS & CSRF attack vectors
-[~] Next target: Server-Side Request Forgery (SSRF)
-[!] Rule #1: Always hack with permission.
-[!] Rule #2: See Rule #1.
-```
-
-**Certifications & Learning Platforms:**
-
-![PortSwigger](https://img.shields.io/badge/PortSwigger%20Web%20Academy-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+</div>
 
 ---
 
@@ -127,15 +93,15 @@ Arch  : RESTful API backend + React frontend + MySQL relational DB
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanamRai001&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanamRai001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanamRai001&layout=compact&langs_count=7&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanamRai001&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanamRai001&theme=terminal&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SanamRai001&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -148,28 +114,16 @@ Arch  : RESTful API backend + React frontend + MySQL relational DB
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanam%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanam-rai-6b2149212/)
 [![GitHub](https://img.shields.io/badge/GitHub-SanamRai001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanamRai001)
 
-```
-PING sanam@nepal ~
-64 bytes from Kathmandu: Response received. Open to collaborations.
-64 bytes from Kathmandu: Interested in backend + security projects.
-64 bytes from Kathmandu: Always up for a good CTF.
-```
-
 </div>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you can hear."   ║
-║                              — Kali Linux motto     ║
-╚══════════════════════════════════════════════════════╝
-```
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SanamRai001.SanamRai001&color=58a6ff)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SanamRai001.SanamRai001&color=00FF41)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
-*Thanks for visiting. Now go patch your SQL injections.* 🛡️
+*Thanks for stopping by — means a lot! 🙏*
 
 </div>
