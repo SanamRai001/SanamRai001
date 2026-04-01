@@ -86,10 +86,3 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/sanam-rai-6b2149212/  
 - 💻 GitHub: https://github.com/SanamRai001  
 
----
-
-## ⚡ Fun Fact
-
-> "I don't just build backend systems... I try to break them too 😈"
-
----
