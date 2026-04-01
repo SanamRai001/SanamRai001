@@ -124,6 +124,16 @@ philosophy  : "Write clean code. Understand how things work. Keep building."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
+*"Build things. Break things. Learn why."*
+
+</div>
+ ---
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SanamRai001.SanamRai001&color=58a6ff)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer" />
+
 *Thanks for stopping by — means a lot! 🙏*
 
 </div>
