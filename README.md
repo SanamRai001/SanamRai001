@@ -91,13 +91,7 @@ philosophy  : "Write clean code. Understand how things work. Keep building."
 
 ## `$ curl github-stats/SanamRai001`
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanamRai001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanamRai001&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
 
 <div align="center">
 
@@ -125,15 +119,5 @@ philosophy  : "Write clean code. Understand how things work. Keep building."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
 *"Build things. Break things. Learn why."*
-
-</div>
- ---
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SanamRai001.SanamRai001&color=58a6ff)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer" />
-
-*Thanks for stopping by — means a lot! 🙏*
 
 </div>
