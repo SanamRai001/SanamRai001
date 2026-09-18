@@ -1,78 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-<title id="title">Sanam Rai — Systems, Backend, AI</title>
-<desc id="desc">Technical system-interface banner with a geometric SR monogram for backend-first developer Sanam Rai.</desc>
+<title id="title">Sanam Rai — Backend, Systems, AI</title><desc id="desc">SYSTEM 001 hero featuring the official interlocked SR monogram.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A0E"/><stop offset=".52" stop-color="#0B1017"/><stop offset="1" stop-color="#08131D"/></linearGradient>
-  <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#83CEFF"/><stop offset="1" stop-color="#428FE9"/></linearGradient>
-  <radialGradient id="glow" cx=".79" cy=".48" r=".42"><stop stop-color="#2E8BFF" stop-opacity=".18"/><stop offset="1" stop-color="#2E8BFF" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8BB8E8" stroke-opacity=".06" stroke-width="1"/></pattern>
-  <style>
-    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:SFMono-Regular,Consolas,Liberation Mono,monospace}
-    .wire{fill:none;stroke:#3A6C98;stroke-width:1.2;stroke-opacity:.72;stroke-dasharray:5 7}
-    .node{fill:#0B1118;stroke:#589FE0;stroke-width:1.2}
-    @keyframes scan{0%{transform:translateX(-320px);opacity:0}15%{opacity:.52}85%{opacity:.52}100%{transform:translateX(1500px);opacity:0}}
-    @keyframes breathe{0%,100%{opacity:.32}50%{opacity:.9}}
-    .scan{animation:scan 7s linear infinite}.pulse{animation:breathe 2.8s ease-in-out infinite}
-    @media(prefers-reduced-motion:reduce){.scan,.pulse{animation:none}.scan{opacity:0}.pulse{opacity:.7}}
-  </style>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A0E"/><stop offset=".52" stop-color="#0B1017"/><stop offset="1" stop-color="#08131D"/></linearGradient>
+<radialGradient id="glow" cx=".82" cy=".5" r=".42"><stop stop-color="#3882F6" stop-opacity=".17"/><stop offset="1" stop-color="#3882F6" stop-opacity="0"/></radialGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1A2A39"/><stop offset=".48" stop-color="#09121B"/><stop offset="1" stop-color="#05090D"/></linearGradient>
+<linearGradient id="silver" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".65" stop-color="#D9E3EA"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<linearGradient id="blue" x1=".22" y1=".15" x2=".82" y2=".9"><stop stop-color="#FFFFFF"/><stop offset=".38" stop-color="#DFF5FF"/><stop offset=".68" stop-color="#49B9EA"/><stop offset="1" stop-color="#1682C6"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8BB8E8" stroke-opacity=".06"/></pattern>
+<style>.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:SFMono-Regular,Consolas,Liberation Mono,monospace}.wire{fill:none;stroke:#3A6C98;stroke-width:1.2;stroke-opacity:.65;stroke-dasharray:5 7}.node{fill:#0B1118;stroke:#589FE0;stroke-width:1.2}@keyframes scan{0%{transform:translateX(-320px);opacity:0}15%{opacity:.5}85%{opacity:.5}100%{transform:translateX(1500px);opacity:0}}@keyframes breathe{0%,100%{opacity:.32}50%{opacity:1}}.scan{animation:scan 7s linear infinite}.pulse{animation:breathe 2.8s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.scan,.pulse{animation:none}.scan{opacity:0}.pulse{opacity:.75}}</style>
 </defs>
-
-<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="430" rx="24" fill="url(#grid)"/>
-<rect width="1200" height="430" rx="24" fill="url(#glow)"/>
-<rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#91B9E0" stroke-opacity=".16"/>
-
-<g class="mono" font-size="12" letter-spacing="2">
-  <text x="46" y="42" fill="#67B4FF">SYSTEM / 001</text>
-  <circle cx="167" cy="38" r="3.5" fill="#72E2EF" class="pulse"/>
-  <text x="182" y="42" fill="#6F8194">ACTIVE</text>
-  <text x="936" y="42" fill="#6F8194">KATHMANDU / NP</text>
-  <text x="1094" y="42" fill="#67B4FF">REV / 02</text>
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/><rect width="1200" height="430" rx="24" fill="url(#grid)"/><rect width="1200" height="430" rx="24" fill="url(#glow)"/><rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#91B9E0" stroke-opacity=".16"/>
+<g class="mono" font-size="12" letter-spacing="2"><text x="46" y="42" fill="#67B4FF">SYSTEM / 001</text><circle cx="167" cy="38" r="3.5" fill="#22D3EE" class="pulse"/><text x="182" y="42" fill="#6F8194">ACTIVE</text><text x="936" y="42" fill="#6F8194">KATHMANDU / NP</text><text x="1094" y="42" fill="#67B4FF">BRAND / 03</text></g>
+<text x="46" y="129" class="mono" font-size="13" letter-spacing="3" fill="#7B8EA3">BACKEND-FIRST / FULL-STACK / AI SYSTEMS</text><text x="44" y="197" class="sans" font-size="68" font-weight="750" letter-spacing="-2" fill="#F8FAFC">SANAM RAI</text><text x="47" y="239" class="sans" font-size="20" fill="#A7B4C2">I build systems that stay useful after the demo is over.</text><line x1="47" y1="274" x2="536" y2="274" stroke="#28435E"/>
+<g class="mono" font-size="12"><text x="47" y="309" fill="#6F8194">CORE</text><text x="94" y="309" fill="#CFD9E4">NODE.JS / TYPESCRIPT / EXPRESS / MYSQL</text><text x="47" y="337" fill="#6F8194">BUILD</text><text x="94" y="337" fill="#CFD9E4">APIs / DATA / PRODUCTS / RETRIEVAL</text><text x="47" y="365" fill="#6F8194">FOCUS</text><text x="94" y="365" fill="#CFD9E4">ARCHITECTURE / RAG / RELIABLE SOFTWARE</text></g>
+<g transform="translate(742 73)">
+<rect x="62" y="20" width="266" height="266" rx="64" fill="url(#tile)" stroke="#4C7798" stroke-width="2.2"/><rect x="68" y="26" width="254" height="254" rx="59" fill="none" stroke="#8BCBFA" stroke-opacity=".10"/>
+<g transform="translate(50 38) scale(.55)">
+<path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z" fill="url(#blue)" stroke="#E8F6FF" stroke-opacity=".45" stroke-width="2"/>
+<path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z" fill="url(#silver)" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="2"/>
+<path d="M232 145H270L309 183H270Z" fill="#D9F2FF"/></g>
+<text x="195" y="315" text-anchor="middle" class="mono" font-size="9" letter-spacing="2.2" fill="#6E879C">OFFICIAL / SR MARK</text>
+<path id="a" class="wire" d="M20 80C40 80 52 92 67 107"/><path id="b" class="wire" d="M328 92C348 92 365 104 382 120"/><path id="c" class="wire" d="M24 230C45 230 55 217 70 202"/><path id="d" class="wire" d="M325 228C348 228 363 211 380 193"/>
+<circle cx="8" cy="80" r="20" class="node"/><text x="8" y="84" text-anchor="middle" class="mono" font-size="8" fill="#C9D8E5">API</text><circle cx="392" cy="120" r="22" class="node"/><text x="392" y="124" text-anchor="middle" class="mono" font-size="8" fill="#C9D8E5">DATA</text><circle cx="12" cy="230" r="22" class="node"/><text x="12" y="234" text-anchor="middle" class="mono" font-size="8" fill="#C9D8E5">RAG</text><circle cx="390" cy="193" r="20" class="node"/><text x="390" y="197" text-anchor="middle" class="mono" font-size="8" fill="#C9D8E5">AI</text>
+<circle r="3.5" fill="#22D3EE"><animateMotion dur="3.9s" repeatCount="indefinite"><mpath href="#a"/></animateMotion></circle><circle r="3.5" fill="#67B4FF"><animateMotion dur="4.7s" begin="-1.5s" repeatCount="indefinite"><mpath href="#b"/></animateMotion></circle><circle r="3.5" fill="#22D3EE"><animateMotion dur="4.2s" begin="-2s" repeatCount="indefinite"><mpath href="#c"/></animateMotion></circle><circle r="3.5" fill="#67B4FF"><animateMotion dur="5.1s" begin="-1s" repeatCount="indefinite"><mpath href="#d"/></animateMotion></circle>
 </g>
-
-<text x="46" y="129" class="mono" font-size="13" letter-spacing="3" fill="#7B8EA3">BACKEND-FIRST / FULL-STACK / AI SYSTEMS</text>
-<text x="44" y="197" class="sans" font-size="68" font-weight="750" letter-spacing="-2" fill="#F3F7FB">SANAM RAI</text>
-<text x="47" y="239" class="sans" font-size="20" fill="#A7B4C2">I build systems that stay useful after the demo is over.</text>
-<line x1="47" y1="274" x2="536" y2="274" stroke="#28435E"/>
-<g class="mono" font-size="12">
-  <text x="47" y="309" fill="#6F8194">CORE</text><text x="94" y="309" fill="#CFD9E4">NODE.JS / TYPESCRIPT / EXPRESS / MYSQL</text>
-  <text x="47" y="337" fill="#6F8194">BUILD</text><text x="94" y="337" fill="#CFD9E4">APIs / DATA / PRODUCTS / RETRIEVAL</text>
-  <text x="47" y="365" fill="#6F8194">FOCUS</text><text x="94" y="365" fill="#CFD9E4">ARCHITECTURE / RAG / RELIABLE SOFTWARE</text>
-</g>
-
-<!-- identity core -->
-<g transform="translate(760 92)">
-  <rect x="50" y="25" width="294" height="225" rx="22" fill="#09111A" fill-opacity=".55" stroke="#5689B4" stroke-opacity=".22"/>
-  <path d="M67 45h-17v28M327 45h17v28M67 230h-17v-28M327 230h17v-28" fill="none" stroke="#5D91BE" stroke-opacity=".42"/>
-  <text x="72" y="52" class="mono" font-size="9" letter-spacing="1.8" fill="#567086">IDENTITY CORE</text>
-
-  <g transform="translate(92 76)" fill="none" stroke="url(#mark)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M3 8H70c13 0 22 8 22 19S83 46 70 46H29C16 46 7 54 7 65s9 19 22 19h66"/>
-    <path d="M125 84V8h46c17 0 28 9 28 22s-11 22-28 22h-46m47 0 36 32"/>
-  </g>
-
-  <text x="197" y="197" text-anchor="middle" class="mono" font-size="10" letter-spacing="2" fill="#7FAED5">SANAM / RAI</text>
-  <text x="197" y="220" text-anchor="middle" class="mono" font-size="9" fill="#526B80">BUILD · UNDERSTAND · IMPROVE</text>
-
-  <path id="a" class="wire" d="M18 84C48 84 60 94 82 111"/>
-  <path id="b" class="wire" d="M312 84C340 84 358 98 376 116"/>
-  <path id="c" class="wire" d="M26 209C54 209 65 193 87 178"/>
-  <path id="d" class="wire" d="M306 205C337 205 353 188 374 167"/>
-
-  <circle cx="7" cy="84" r="22" class="node"/><text x="7" y="88" text-anchor="middle" class="mono" font-size="9" fill="#C9D8E5">API</text>
-  <circle cx="387" cy="116" r="24" class="node"/><text x="387" y="120" text-anchor="middle" class="mono" font-size="9" fill="#C9D8E5">DATA</text>
-  <circle cx="15" cy="209" r="24" class="node"/><text x="15" y="213" text-anchor="middle" class="mono" font-size="9" fill="#C9D8E5">RAG</text>
-  <circle cx="385" cy="167" r="22" class="node"/><text x="385" y="171" text-anchor="middle" class="mono" font-size="9" fill="#C9D8E5">AI</text>
-
-  <circle r="3.8" fill="#72E2EF"><animateMotion dur="3.9s" repeatCount="indefinite"><mpath href="#a"/></animateMotion></circle>
-  <circle r="3.8" fill="#67B4FF"><animateMotion dur="4.7s" begin="-1.5s" repeatCount="indefinite"><mpath href="#b"/></animateMotion></circle>
-  <circle r="3.8" fill="#72E2EF"><animateMotion dur="4.2s" begin="-2s" repeatCount="indefinite"><mpath href="#c"/></animateMotion></circle>
-  <circle r="3.8" fill="#67B4FF"><animateMotion dur="5.1s" begin="-1s" repeatCount="indefinite"><mpath href="#d"/></animateMotion></circle>
-</g>
-
-<g class="scan"><rect x="-260" y="0" width="230" height="430" fill="#5FAEFF" fill-opacity=".025" transform="skewX(-18)"/></g>
-<g class="mono" font-size="10" letter-spacing="1.5" fill="#536679">
-  <text x="46" y="405">REV 09.18.26 / SYSTEM 001</text>
-  <text x="978" y="405">DESIGN / BUILD / OBSERVE / IMPROVE</text>
-</g>
+<g class="scan"><rect x="-260" y="0" width="230" height="430" fill="#5FAEFF" fill-opacity=".025" transform="skewX(-18)"/></g><g class="mono" font-size="10" letter-spacing="1.5" fill="#536679"><text x="46" y="405">SYSTEMS FOR A BETTER TOMORROW</text><text x="1007" y="405">BUILD / LEARN / IMPROVE</text></g>
 </svg>
