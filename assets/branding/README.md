@@ -4,9 +4,10 @@ This directory contains the visual identity used across my GitHub profile and se
 
 ## Primary assets
 
+- `sanam-rai-main-logo.svg` — primary full-width profile / wordmark lockup.
 - `logo-mark.svg` — primary dark app/avatar mark.
 - `logo-flat.svg` — simplified transparent mark for small sizes and flexible placement.
-- `brand-lockup.svg` — SR mark + Sanam Rai wordmark.
+- `brand-lockup.svg` — legacy compact SR + Sanam Rai lockup.
 - `brand-board.svg` — visual identity reference.
 
 ## Brand language
