@@ -86,7 +86,19 @@ I choose tools based on the system, not the badge wall. The technologies above a
 
 <br/>
 
-## `05 / CURRENT SIGNAL`
+## `05 / BUILD SIGNAL`
+
+<p align="center">
+  <img src="./assets/profile/build-signal.svg" width="100%" alt="Sanam Rai public GitHub contribution signal"/>
+</p>
+
+<sub>
+Generated inside this repository from GitHub's public contribution calendar and refreshed automatically — no third-party stats card.
+</sub>
+
+<br/>
+
+## `06 / CURRENT SIGNAL`
 
 ```text
 AI / KNOWLEDGE
@@ -110,13 +122,17 @@ LEARNING / DEPTH
 
 <br/>
 
-## `06 / FOUNDATIONS`
+## `07 / FOUNDATIONS`
 
 **Harvard CS50x** — Introduction to Computer Science  
 **Harvard CS50P** — Introduction to Programming with Python  
 **PortSwigger Web Security Academy** — SQL injection labs
 
 <br/>
+
+<p align="center">
+  <img src="./assets/profile/sr-mark.svg" width="30%" alt="Sanam Rai SR system mark"/>
+</p>
 
 ---
 
