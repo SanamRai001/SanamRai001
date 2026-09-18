@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">Sanam Rai SR logo</title>
+<desc id="desc">Interlocked SR monogram in silver and electric blue on a deep navy rounded square.</desc>
+<defs>
+  <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#1A2A39"/><stop offset=".48" stop-color="#09121B"/><stop offset="1" stop-color="#05090D"/>
+  </linearGradient>
+  <linearGradient id="silver" x1=".2" y1="0" x2=".8" y2="1">
+    <stop stop-color="#FFFFFF"/><stop offset=".38" stop-color="#F5F8FA"/><stop offset=".7" stop-color="#D7E1E9"/><stop offset="1" stop-color="#F8FAFB"/>
+  </linearGradient>
+  <linearGradient id="blue" x1=".22" y1=".15" x2=".82" y2=".9">
+    <stop stop-color="#FFFFFF"/><stop offset=".38" stop-color="#DFF5FF"/><stop offset=".68" stop-color="#49B9EA"/><stop offset="1" stop-color="#1682C6"/>
+  </linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#8EC7F4" stop-opacity=".55"/><stop offset=".5" stop-color="#2D526F" stop-opacity=".55"/><stop offset="1" stop-color="#0B3455" stop-opacity=".8"/>
+  </linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000" flood-opacity=".55"/>
+  </filter>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect x="24" y="24" width="464" height="464" rx="112" fill="url(#tile)" stroke="url(#rim)" stroke-width="4"/>
+<rect x="33" y="33" width="446" height="446" rx="104" fill="none" stroke="#8BCBFA" stroke-opacity=".10"/>
+
+<g filter="url(#shadow)">
+  <!-- S body -->
+  <path d="M140 118
+           C140 84 172 58 215 58
+           H322
+           L286 96
+           H216
+           C195 96 180 107 180 124
+           C180 139 189 150 204 164
+           L272 230
+           C292 249 300 268 300 289
+           C300 324 271 351 229 351
+           H118
+           L156 312
+           H226
+           C246 312 259 302 259 287
+           C259 276 252 266 239 254
+           L174 190
+           C151 168 140 144 140 118 Z"
+        fill="url(#blue)" stroke="#E8F6FF" stroke-opacity=".55" stroke-width="2"/>
+
+  <!-- R body -->
+  <path d="M234 145
+           H326
+           C374 145 405 174 405 214
+           C405 249 382 274 349 282
+           L408 354
+           H355
+           L300 287
+           H272
+           V354
+           H230
+           V247
+           H326
+           C347 247 362 234 362 215
+           C362 196 347 183 326 183
+           H270
+           Z"
+        fill="url(#silver)" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="2"/>
+</g>
+
+<!-- crossover highlight -->
+<path d="M232 145H270L309 183H270Z" fill="#D9F2FF" opacity=".95"/>
+<path d="M259 287c0-11-7-21-20-33l-34-33 31-30 36 39c20 19 28 38 28 59 0 35-29 62-71 62h-1c20-3 31-14 31-30Z" fill="#187FBF" opacity=".22"/>
+
+<path d="M84 72H68v36M428 72h16v36M84 440H68v-36M428 440h16v-36" fill="none" stroke="#74BDF0" stroke-opacity=".34" stroke-width="2"/>
+</svg>
