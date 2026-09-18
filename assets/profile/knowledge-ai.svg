@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="280" viewBox="0 0 580 280">
+<defs><linearGradient id="b" x1="0" x2="1" y2="1"><stop stop-color="#0A0D12"/><stop offset="1" stop-color="#0B1520"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A3C7EA" stroke-opacity=".05"/></pattern></defs>
+<rect width="580" height="280" rx="20" fill="url(#b)"/><rect width="580" height="280" rx="20" fill="url(#g)"/><rect x="1" y="1" width="578" height="278" rx="19" fill="none" stroke="#5AAEFF" stroke-opacity=".2"/>
+<g font-family="Consolas,monospace" font-size="11" letter-spacing="1.6"><text x="28" y="34" fill="#62B1FF">KNOWLEDGE / 001</text><text x="452" y="34" fill="#65798E">AI SYSTEM</text></g>
+<text x="28" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" fill="#F2F6FA">Knowledge AI</text>
+<text x="28" y="109" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#8899AA">Evidence-backed answers from private knowledge.</text>
+<g transform="translate(350 72)" fill="none" stroke="#4D8FCB" stroke-width="1.2">
+<path d="M18 35L92 12 160 54 118 120 42 108Z"/><path d="M18 35L118 120M92 12L42 108M160 54L42 108"/>
+<g fill="#0B1118" stroke="#62B1FF" stroke-width="1.5"><circle cx="18" cy="35" r="8"/><circle cx="92" cy="12" r="8"/><circle cx="160" cy="54" r="8"/><circle cx="118" cy="120" r="8"/><circle cx="42" cy="108" r="8"/></g>
+<circle cx="18" cy="35" r="3" fill="#72E2EF" stroke="none"><animate attributeName="opacity" values=".3;1;.3" dur="2.7s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Consolas,monospace" font-size="11"><text x="28" y="176" fill="#60758A">PIPELINE</text><text x="28" y="199" fill="#C6D3DF">RETRIEVE → RERANK → VERIFY → ANSWER</text><text x="28" y="236" fill="#6D8093">RAG  /  GROUNDING  /  CITATIONS  /  EVAL</text></g>
+<line x1="28" y1="252" x2="552" y2="252" stroke="#233649"/><text x="28" y="270" font-family="Consolas,monospace" font-size="9" fill="#4F657A">TRUST BOUNDARY: ABSTAIN WHEN EVIDENCE IS INSUFFICIENT</text>
+</svg>

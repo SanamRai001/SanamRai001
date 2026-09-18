@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Sanam Rai — Systems, Backend, AI</title>
+<desc id="desc">Dark technical blueprint banner for backend-first developer Sanam Rai.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A0E"/><stop offset=".55" stop-color="#0B1017"/><stop offset="1" stop-color="#08111A"/></linearGradient>
+  <radialGradient id="glow" cx=".78" cy=".45" r=".48"><stop stop-color="#2E8BFF" stop-opacity=".17"/><stop offset="1" stop-color="#2E8BFF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8BB8E8" stroke-opacity=".065" stroke-width="1"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+  <style>
+    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:SFMono-Regular,Consolas,Liberation Mono,monospace}
+    .wire{fill:none;stroke:#3B6E9F;stroke-width:1.3;stroke-opacity:.68;stroke-dasharray:5 7}
+    .node{fill:#0B1118;stroke:#59A8FF;stroke-width:1.4}
+    .muted{fill:#718096}.accent{fill:#67B4FF}.cyan{fill:#72E2EF}
+    @keyframes scan{0%{transform:translateX(-300px);opacity:0}15%{opacity:.55}85%{opacity:.55}100%{transform:translateX(1500px);opacity:0}}
+    .scan{animation:scan 7s linear infinite}
+    @media (prefers-reduced-motion:reduce){.scan{animation:none;opacity:0}}
+  </style>
+</defs>
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+<rect width="1200" height="430" rx="24" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#91B9E0" stroke-opacity=".16"/>
+<g class="mono" font-size="12" letter-spacing="2">
+  <text x="46" y="42" class="accent">SYSTEM / 001</text>
+  <circle cx="167" cy="38" r="3.5" fill="#72E2EF"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="182" y="42" fill="#6F8194">ACTIVE</text>
+  <text x="946" y="42" fill="#6F8194">KATHMANDU / NP</text>
+  <text x="1108" y="42" class="accent">2026</text>
+</g>
+
+<text x="46" y="135" class="mono" font-size="13" letter-spacing="3" fill="#7B8EA3">BACKEND-FIRST / FULL-STACK / AI SYSTEMS</text>
+<text x="44" y="204" class="sans" font-size="68" font-weight="750" letter-spacing="-2" fill="#F3F7FB">SANAM RAI</text>
+<text x="47" y="246" class="sans" font-size="20" fill="#A7B4C2">I build systems that stay useful after the demo is over.</text>
+<line x1="47" y1="280" x2="530" y2="280" stroke="#28435E"/>
+<g class="mono" font-size="12">
+  <text x="47" y="314" fill="#6F8194">CORE</text><text x="92" y="314" fill="#CFD9E4">NODE.JS / TYPESCRIPT / EXPRESS / MYSQL</text>
+  <text x="47" y="340" fill="#6F8194">BUILD</text><text x="92" y="340" fill="#CFD9E4">APIs / DATA / PRODUCTS / RETRIEVAL</text>
+  <text x="47" y="366" fill="#6F8194">FOCUS</text><text x="92" y="366" fill="#CFD9E4">ARCHITECTURE / RAG / RELIABLE SOFTWARE</text>
+</g>
+
+<g transform="translate(670 98)">
+  <text x="0" y="-12" class="mono" font-size="11" fill="#6F8194" letter-spacing="2">SYSTEM MAP / LIVE</text>
+  <path id="p1" class="wire" d="M70 70 C170 20 270 20 360 70"/>
+  <path id="p2" class="wire" d="M70 70 C160 135 255 145 360 70"/>
+  <path id="p3" class="wire" d="M210 170 C255 128 305 112 360 70"/>
+  <path id="p4" class="wire" d="M70 70 C120 120 150 150 210 170"/>
+  <path class="wire" d="M360 70 C410 118 430 165 410 220"/>
+  <circle cx="70" cy="70" r="28" class="node"/><text x="70" y="74" text-anchor="middle" class="mono" font-size="11" fill="#C8D6E5">CLIENT</text>
+  <circle cx="210" cy="45" r="31" class="node"/><text x="210" y="49" text-anchor="middle" class="mono" font-size="11" fill="#C8D6E5">API</text>
+  <circle cx="210" cy="170" r="34" class="node"/><text x="210" y="174" text-anchor="middle" class="mono" font-size="11" fill="#C8D6E5">RAG</text>
+  <circle cx="360" cy="70" r="33" class="node"/><text x="360" y="74" text-anchor="middle" class="mono" font-size="11" fill="#C8D6E5">DATA</text>
+  <circle cx="410" cy="220" r="31" class="node"/><text x="410" y="224" text-anchor="middle" class="mono" font-size="11" fill="#C8D6E5">AI</text>
+  <circle r="4" fill="#72E2EF"><animateMotion dur="4.5s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+  <circle r="4" fill="#59A8FF"><animateMotion dur="5.7s" begin="-2s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+  <circle r="4" fill="#72E2EF"><animateMotion dur="4.8s" begin="-1s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+  <text x="418" y="278" text-anchor="end" class="mono" font-size="10" fill="#536679">DESIGN → BUILD → OBSERVE → IMPROVE</text>
+</g>
+
+<text x="1058" y="350" class="sans" font-size="118" font-weight="800" fill="#8CC5FF" fill-opacity=".035">SR</text>
+<g class="scan"><rect x="-260" y="0" width="230" height="430" fill="#5FAEFF" fill-opacity=".025" transform="skewX(-18)"/></g>
+<g class="mono" font-size="10" letter-spacing="1.5" fill="#536679">
+  <text x="46" y="405">REV 09.18.26</text><text x="1042" y="405">BUILD / UNDERSTAND / IMPROVE</text>
+</g>
+</svg>

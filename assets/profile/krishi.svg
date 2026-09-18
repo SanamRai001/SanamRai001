@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="280" viewBox="0 0 580 280">
+<defs><linearGradient id="b" x1="0" x2="1" y2="1"><stop stop-color="#090D0B"/><stop offset="1" stop-color="#0D1713"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A8D7C0" stroke-opacity=".045"/></pattern></defs>
+<rect width="580" height="280" rx="20" fill="url(#b)"/><rect width="580" height="280" rx="20" fill="url(#g)"/><rect x="1" y="1" width="578" height="278" rx="19" fill="none" stroke="#6ED6A2" stroke-opacity=".18"/>
+<g font-family="Consolas,monospace" font-size="11" letter-spacing="1.6"><text x="28" y="34" fill="#6ED6A2">COMMERCE / 002</text><text x="452" y="34" fill="#647A6E">FULL STACK</text></g>
+<text x="28" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" fill="#F2F6F4">Krishi Bazar</text>
+<text x="28" y="109" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#8C9D94">Agricultural marketplace connecting farmers and buyers.</text>
+<g transform="translate(28 154)" font-family="Consolas,monospace">
+<rect x="0" y="0" width="118" height="52" rx="10" fill="#0B1510" stroke="#315B45"/><text x="59" y="31" text-anchor="middle" font-size="11" fill="#C8D8CF">FARMER</text>
+<path d="M128 26H206" stroke="#456D58" stroke-dasharray="5 6"/><path d="M198 20L207 26 198 32" fill="none" stroke="#6ED6A2"/>
+<rect x="216" y="0" width="118" height="52" rx="10" fill="#0B1510" stroke="#315B45"/><text x="275" y="31" text-anchor="middle" font-size="11" fill="#C8D8CF">MARKET</text>
+<path d="M344 26H422" stroke="#456D58" stroke-dasharray="5 6"/><path d="M414 20L423 26 414 32" fill="none" stroke="#6ED6A2"/>
+<rect x="432" y="0" width="92" height="52" rx="10" fill="#0B1510" stroke="#315B45"/><text x="478" y="31" text-anchor="middle" font-size="11" fill="#C8D8CF">BUYER</text>
+<circle cx="168" cy="26" r="3.5" fill="#6ED6A2"><animate attributeName="cx" values="132;202;132" dur="3.8s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Consolas,monospace" font-size="11"><text x="28" y="236" fill="#6D8176">REACT  /  NODE  /  EXPRESS  /  MONGODB  /  JWT</text></g>
+<line x1="28" y1="252" x2="552" y2="252" stroke="#21362B"/><text x="28" y="270" font-family="Consolas,monospace" font-size="9" fill="#50665A">SEARCH / CART / CHECKOUT / ORDERS / DEPLOYMENT</text>
+</svg>

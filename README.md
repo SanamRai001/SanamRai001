@@ -1,123 +1,135 @@
-<!-- ============================================================
-     SANAM RAI — GitHub Profile README
-     ============================================================ -->
+<p align="center">
+  <img src="./assets/profile/hero.svg" width="100%" alt="Sanam Rai — backend, systems and AI developer"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://sanam-rai.com.np"><b>PORTFOLIO</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanam-rai-6b2149212/"><b>LINKEDIN</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/SanamRai001?tab=repositories"><b>REPOSITORIES</b></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Sanam%20Rai&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Backend%20Developer%20%7C%20IT%20Student%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=60&descSize=18&descColor=8b949e" />
+<br/>
 
-</div>
+## `01 / PROFILE`
 
-<div align="center">
+I’m a **backend-first full-stack developer** from Nepal. I enjoy the part of software engineering where an idea stops being a screen and starts becoming a **system** — domain rules, data models, APIs, failure cases, security boundaries, workflows, and the architecture that holds everything together.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Node.js+%7C+Express+%7C+MySQL+%7C+React;IT+Student+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Always+learning%2C+always+building." alt="Typing SVG" />
+I work across the stack when the product needs it, but I’m especially interested in **backend architecture, databases, real operational software, RAG, retrieval, grounding, and AI system design**.
 
-</div>
+> **Current principle:** build software that stays useful after the demo is over.
 
----
-
-## `$ cat about_me.txt`
-
-```yaml
-name        : Sanam Rai
-pronouns    : he/him
-location    : Nepal 🇳🇵
-role        : IT Student + Backend Developer
-interests   :
-  - Backend systems & API architecture
-  - Database design & query optimization
-  - Web application security (curious learner)
-currently   : Building & exploring
-philosophy  : "Write clean code. Understand how things work. Keep building."
+```text
+SYSTEMS       APIs · architecture · databases · workflows
+PRODUCTS      real users · real constraints · full-stack delivery
+INTELLIGENCE  RAG · retrieval · grounding · evaluation · agents
 ```
 
+<br/>
+
+## `02 / SELECTED SYSTEMS`
+
+<p align="center">
+  <a href="https://github.com/SanamRai001/knowledge-ai">
+    <img src="./assets/profile/knowledge-ai.svg" width="49%" alt="Knowledge AI project"/>
+  </a>
+  <a href="https://github.com/SanamRai001/KrishiBazar">
+    <img src="./assets/profile/krishi.svg" width="49%" alt="Krishi Bazar project"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SanamRai001/YakTalk-chatapp">
+    <img src="./assets/profile/yaktalk.svg" width="49%" alt="YakTalk project"/>
+  </a>
+  <a href="https://github.com/SanamRai001/rag-from-scratch">
+    <img src="./assets/profile/rag-lab.svg" width="49%" alt="RAG from Scratch project"/>
+  </a>
+</p>
+
+<details>
+<summary><b>Project notes</b></summary>
+<br/>
+
+**Knowledge AI** — a document-grounded assistant built around retrieval, reranking, evidence sufficiency, citations, abstention, graph/hierarchical retrieval experiments, multilingual queries, and evaluation tooling.
+
+**Krishi Bazar** — a deployed agricultural marketplace with authentication, search/filter/sort, cart, checkout, orders, React, Node.js, Express, and MongoDB. [Live demo](https://krishi-bazar-alpha.vercel.app)
+
+**YakTalk** — a real-time chat application with authenticated WebSocket connections, presence, private messaging, HTTP-only cookie sessions, React, Express, Socket.IO, and MongoDB. [Live demo](https://yaktalk-chatapp-1.onrender.com)
+
+**RAG from Scratch** — a learning lab for understanding ingestion, chunking, embeddings, retrieval, similarity, grounding, and how retrieval quality changes generated answers.
+
+</details>
+
+<br/>
+
+## `03 / BUILD LOOP`
+
+<p align="center">
+  <img src="./assets/profile/build-loop.svg" width="100%" alt="Sanam Rai engineering build loop"/>
+</p>
+
+I care about **clear boundaries, useful documentation, honest failure handling, and architecture that can grow** without turning every new requirement into a rewrite.
+
+<br/>
+
+## `04 / TOOLKIT`
+
+<p align="center">
+  <img src="./assets/profile/toolkit.svg" width="100%" alt="Sanam Rai developer toolkit"/>
+</p>
+
+<sub>
+I choose tools based on the system, not the badge wall. The technologies above are the ones I currently reach for most often.
+</sub>
+
+<br/>
+
+## `05 / CURRENT SIGNAL`
+
+```text
+AI / KNOWLEDGE
+├─ trustworthy retrieval and citation systems
+├─ hybrid search, reranking and grounding
+├─ evaluation over "it feels good"
+└─ agents with sensible human control
+
+BACKEND / SYSTEMS
+├─ domain modeling and API boundaries
+├─ relational + document data design
+├─ authentication, permissions and tenancy
+└─ operational workflows that survive edge cases
+
+LEARNING / DEPTH
+├─ AI architecture from first principles
+├─ system design and databases
+├─ security fundamentals
+└─ understanding why the abstraction works
+```
+
+<br/>
+
+## `06 / FOUNDATIONS`
+
+**Harvard CS50x** — Introduction to Computer Science  
+**Harvard CS50P** — Introduction to Programming with Python  
+**PortSwigger Web Security Academy** — SQL injection labs
+
+<br/>
+
 ---
 
-## `$ cat system_status.log`
+<p align="center">
+  <sub>SYSTEM / 001 — SANAM RAI</sub>
+</p>
 
-<div align="center">
+<h3 align="center">Build the system. Understand the system. Improve the system.</h3>
 
-| Module | Status | Stack |
-|---|---|---|
-| ⚙️ Backend Engine | `RUNNING` | Node.js + Express |
-| 🗄️ Database Layer | `CONNECTED` | MySQL |
-| 🧠 Learning Mode | `ALWAYS ON` | — |
-| 🌐 Frontend | `FUNCTIONAL` | React + JS |
-
-</div>
-
----
-
-## `$ ls ./tech_stack/`
-
-<div align="center">
-
-**— Backend —**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**— Frontend —**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**— Tools —**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## `$ cat certifications.txt`
-
-<div align="center">
-
-![CS50x](https://img.shields.io/badge/Harvard%20CS50x-Introduction%20to%20CS-A51C30?style=for-the-badge&logo=edx&logoColor=white)
-![CS50P](https://img.shields.io/badge/Harvard%20CS50P-Python%20Programming-A51C30?style=for-the-badge&logo=python&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-SQL%20Injection%20Labs-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-</div>
-
----
-
-## `$ curl github-stats/SanamRai001`
-
-
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanamRai001&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `$ ping contact/sanam`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanam%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanam-rai-6b2149212/)
-[![GitHub](https://img.shields.io/badge/GitHub-SanamRai001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanamRai001)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SanamRai001.SanamRai001&color=58a6ff)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer" />
-
-*"Build things. Break things. Learn why."*
-
-</div>
+<p align="center">
+  <a href="https://sanam-rai.com.np">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sanam-rai-6b2149212/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/SanamRai001">GitHub</a>
+</p>
