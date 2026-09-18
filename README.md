@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile/hero.svg" width="100%" alt="Sanam Rai — backend, systems and AI developer"/>
+  <img src="./assets/branding/sanam-rai-main-logo.svg" width="96%" alt="Sanam Rai — Backend · Systems · AI"/>
 </p>
 
 <p align="center">
@@ -133,11 +133,11 @@ LEARNING / DEPTH
 ## `08 / IDENTITY`
 
 <p align="center">
-  <img src="./assets/branding/brand-lockup.svg" width="78%" alt="Sanam Rai official brand lockup"/>
+  <img src="./assets/branding/logo-mark.svg" width="22%" alt="Sanam Rai SR monogram"/>
 </p>
 
 <p align="center">
-  <sub>Official identity: SR monogram · backend · systems · AI</sub>
+  <sub>SR / 001 · official identity system</sub>
 </p>
 
 <details>
