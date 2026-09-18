@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Sanam Rai SR flat logo">
+<defs>
+  <linearGradient id="blue" x1=".2" y1=".1" x2=".8" y2=".9"><stop stop-color="#EAF8FF"/><stop offset=".56" stop-color="#59C4F1"/><stop offset="1" stop-color="#1986C9"/></linearGradient>
+</defs>
+<path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z" fill="url(#blue)"/>
+<path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z" fill="#F6F8FA"/>
+<path d="M232 145H270L309 183H270Z" fill="#D9F2FF"/>
+</svg>

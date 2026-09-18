@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Sanam Rai brand identity board">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071019"/><stop offset=".55" stop-color="#050A0F"/><stop offset="1" stop-color="#08111A"/></linearGradient>
+  <linearGradient id="blue" x1=".2" y1=".1" x2=".8" y2=".9"><stop stop-color="#EFFAFF"/><stop offset=".55" stop-color="#59C4F1"/><stop offset="1" stop-color="#1682C6"/></linearGradient>
+  <linearGradient id="silver" x1=".1" y1="0" x2=".8" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".7" stop-color="#D9E3EA"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8EBCE2" stroke-opacity=".04"/></pattern>
+</defs>
+<rect width="1200" height="760" rx="26" fill="url(#bg)"/><rect width="1200" height="760" rx="26" fill="url(#grid)"/>
+<line x1="700" y1="0" x2="700" y2="760" stroke="#2C4355"/><line x1="700" y1="420" x2="1200" y2="420" stroke="#2C4355"/><line x1="0" y1="598" x2="1200" y2="598" stroke="#2C4355"/>
+<text x="44" y="48" font-family="Consolas,monospace" font-size="12" letter-spacing="4" fill="#AFC8DC">PRIMARY LOGO</text>
+<text x="738" y="48" font-family="Consolas,monospace" font-size="12" letter-spacing="4" fill="#AFC8DC">VARIATIONS</text>
+
+<rect x="54" y="82" width="590" height="470" rx="110" fill="#09121B" stroke="#315776" stroke-width="3"/>
+<g transform="translate(92 112) scale(.92)">
+  <path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z" fill="url(#blue)"/>
+  <path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z" fill="url(#silver)"/>
+  <path d="M232 145H270L309 183H270Z" fill="#D9F2FF"/>
+</g>
+
+<g transform="translate(740 92)" font-family="Consolas,monospace">
+  <g transform="scale(.32)">
+    <path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z" fill="url(#blue)"/><path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z" fill="url(#silver)"/>
+  </g>
+  <text x="0" y="142" font-size="10" letter-spacing="2" fill="#71869A">FULL COLOR</text>
+
+  <g transform="translate(170 0) scale(.32)" fill="#F3F6F8">
+    <path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z"/><path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z"/>
+  </g>
+  <text x="170" y="142" font-size="10" letter-spacing="2" fill="#71869A">MONOCHROME</text>
+
+  <g transform="translate(350 0) scale(.32)" fill="#29465F">
+    <path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z"/><path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z"/>
+  </g>
+  <text x="350" y="142" font-size="10" letter-spacing="2" fill="#71869A">DARK</text>
+
+  <text x="0" y="208" font-size="11" letter-spacing="3" fill="#AFC8DC">BRAND CHARACTER</text>
+  <text x="0" y="246" font-size="12" letter-spacing="2" fill="#73889B">MODERN</text>
+  <text x="0" y="278" font-size="12" letter-spacing="2" fill="#73889B">MINIMAL</text>
+  <text x="0" y="310" font-size="12" letter-spacing="2" fill="#73889B">TECHNICAL</text>
+  <text x="0" y="342" font-size="12" letter-spacing="2" fill="#73889B">PREMIUM</text>
+</g>
+
+<text x="738" y="466" font-family="Consolas,monospace" font-size="12" letter-spacing="4" fill="#AFC8DC">WORDMARK LOCKUP</text>
+<g transform="translate(734 496) scale(.28)">
+  <path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z" fill="url(#blue)"/><path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z" fill="url(#silver)"/>
+</g>
+<line x1="864" y1="496" x2="864" y2="570" stroke="#35536A"/>
+<text x="890" y="526" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="7" fill="#F3F6F8">SANAM RAI</text>
+<text x="892" y="554" font-family="Consolas,monospace" font-size="9" letter-spacing="3" fill="#67B4FF">BUILD · LEARN · IMPROVE</text>
+
+<text x="44" y="640" font-family="Consolas,monospace" font-size="12" letter-spacing="4" fill="#AFC8DC">COLOR SYSTEM</text>
+<g font-family="Consolas,monospace" font-size="10" fill="#8094A6">
+  <rect x="44" y="674" width="32" height="32" rx="7" fill="#3882F6"/><text x="88" y="695">#3882F6</text>
+  <rect x="192" y="674" width="32" height="32" rx="7" fill="#22D3EE"/><text x="236" y="695">#22D3EE</text>
+  <rect x="340" y="674" width="32" height="32" rx="7" fill="#F8FAFC"/><text x="384" y="695">#F8FAFC</text>
+  <rect x="488" y="674" width="32" height="32" rx="7" fill="#94A3B8"/><text x="532" y="695">#94A3B8</text>
+  <rect x="636" y="674" width="32" height="32" rx="7" fill="#0B0F14" stroke="#29465A"/><text x="680" y="695">#0B0F14</text>
+</g>
+<line x1="820" y1="692" x2="858" y2="692" stroke="#48AFFF" stroke-width="3"/>
+<text x="878" y="697" font-family="Consolas,monospace" font-size="10" letter-spacing="2" fill="#8094A6">SYSTEMS FOR A BETTER TOMORROW</text>
+</svg>

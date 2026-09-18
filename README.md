@@ -130,9 +130,27 @@ LEARNING / DEPTH
 
 <br/>
 
+## `08 / IDENTITY`
+
 <p align="center">
-  <img src="./assets/profile/sr-mark.svg" width="30%" alt="Sanam Rai SR system mark"/>
+  <img src="./assets/branding/brand-lockup.svg" width="78%" alt="Sanam Rai official brand lockup"/>
 </p>
+
+<p align="center">
+  <sub>Official identity: SR monogram · backend · systems · AI</sub>
+</p>
+
+<details>
+<summary><b>View brand identity board</b></summary>
+<br/>
+
+<p align="center">
+  <img src="./assets/branding/brand-board.svg" width="100%" alt="Sanam Rai brand identity board"/>
+</p>
+
+</details>
+
+<br/>
 
 ---
 
@@ -140,7 +158,7 @@ LEARNING / DEPTH
   <sub>SYSTEM / 001 — SANAM RAI</sub>
 </p>
 
-<h3 align="center">Build the system. Understand the system. Improve the system.</h3>
+<h3 align="center">Build. Learn. Improve.</h3>
 
 <p align="center">
   <a href="https://sanam-rai.com.np">Portfolio</a>

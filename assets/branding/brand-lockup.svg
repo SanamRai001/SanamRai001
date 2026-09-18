@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Sanam Rai brand lockup">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B10"/><stop offset="1" stop-color="#0B131B"/></linearGradient>
+  <linearGradient id="blue" x1=".2" y1=".1" x2=".8" y2=".9"><stop stop-color="#EFFAFF"/><stop offset=".55" stop-color="#59C4F1"/><stop offset="1" stop-color="#1682C6"/></linearGradient>
+  <linearGradient id="silver" x1=".1" y1="0" x2=".8" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".7" stop-color="#D9E3EA"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8EBCE2" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1000" height="280" rx="24" fill="url(#bg)"/><rect width="1000" height="280" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="998" height="278" rx="23" fill="none" stroke="#5E9BCA" stroke-opacity=".18"/>
+<g transform="translate(38 30) scale(.43)">
+  <path d="M140 118C140 84 172 58 215 58H322L286 96H216C195 96 180 107 180 124C180 139 189 150 204 164L272 230C292 249 300 268 300 289C300 324 271 351 229 351H118L156 312H226C246 312 259 302 259 287C259 276 252 266 239 254L174 190C151 168 140 144 140 118Z" fill="url(#blue)"/>
+  <path d="M234 145H326C374 145 405 174 405 214C405 249 382 274 349 282L408 354H355L300 287H272V354H230V247H326C347 247 362 234 362 215C362 196 347 183 326 183H270Z" fill="url(#silver)"/>
+  <path d="M232 145H270L309 183H270Z" fill="#D9F2FF"/>
+</g>
+<line x1="245" y1="58" x2="245" y2="222" stroke="#345066"/>
+<text x="290" y="102" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="12" fill="#F3F6F8">SANAM RAI</text>
+<text x="294" y="145" font-family="Consolas,monospace" font-size="14" letter-spacing="5" fill="#8DA0B2">BACKEND · SYSTEMS · AI</text>
+<text x="294" y="185" font-family="Consolas,monospace" font-size="12" letter-spacing="3" fill="#67B4FF">BUILD · LEARN · IMPROVE</text>
+<text x="294" y="220" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#71869A">Systems for a better tomorrow.</text>
+</svg>
