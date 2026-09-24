@@ -1,4 +1,4 @@
-name: Update build signal
+name: Update profile signals
 
 on:
   workflow_dispatch:
@@ -26,20 +26,20 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate contribution data art
+      - name: Generate profile signals
         run: node scripts/generate-contributions.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: SanamRai001
 
-      - name: Commit refreshed signal
+      - name: Commit refreshed signals
         run: |
           if git diff --quiet; then
-            echo "Build signal is already current."
+            echo "Profile signals are already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/profile/build-signal.svg
-          git commit -m "chore: refresh build signal"
+          git add assets/profile/build-signal.svg assets/profile/live-signal.svg
+          git commit -m "chore: refresh profile signals"
           git push
