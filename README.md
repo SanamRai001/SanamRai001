@@ -102,7 +102,19 @@ Generated inside this repository from GitHub's public contribution calendar and 
 
 <br/>
 
-## `06 / CURRENT SIGNAL`
+## `06 / LIVE SIGNAL`
+
+<p align="center">
+  <img src="./assets/profile/live-signal.svg" width="100%" alt="Sanam Rai live public GitHub signal"/>
+</p>
+
+<sub>
+Stars, followers, public repositories, and the most recently pushed public project — refreshed automatically from GitHub.
+</sub>
+
+<br/>
+
+## `07 / CURRENT SIGNAL`
 
 ```text
 AI / KNOWLEDGE
@@ -126,7 +138,7 @@ LEARNING / DEPTH
 
 <br/>
 
-## `07 / FOUNDATIONS`
+## `08 / FOUNDATIONS`
 
 **Harvard CS50x** — Introduction to Computer Science  
 **Harvard CS50P** — Introduction to Programming with Python  
@@ -134,7 +146,7 @@ LEARNING / DEPTH
 
 <br/>
 
-## `08 / IDENTITY`
+## `09 / IDENTITY`
 
 <p align="center">
   <img src="./assets/branding/logo-mark.svg" width="22%" alt="Sanam Rai SR monogram"/>
