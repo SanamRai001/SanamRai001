@@ -10,6 +10,10 @@
   <a href="https://github.com/SanamRai001?tab=repositories"><b>REPOSITORIES</b></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanamRai001&label=PROFILE%20VIEWS&color=3882F6&style=flat-square" alt="Sanam Rai profile views"/>
+</p>
+
 <br/>
 
 ## `01 / PROFILE`
