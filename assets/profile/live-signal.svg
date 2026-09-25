@@ -23,15 +23,15 @@
 
   <rect x="406" y="132" width="170" height="92" rx="14" fill="#0B141D" stroke="#28455E"/>
   <text x="424" y="158" font-size="9" letter-spacing="1.4" fill="#61778B">PUBLIC REPOS</text>
-  <text x="424" y="199" font-size="30" fill="#DCE9F3">28</text>
+  <text x="424" y="199" font-size="30" fill="#DCE9F3">29</text>
 
   <rect x="606" y="132" width="560" height="92" rx="14" fill="#0A151F" stroke="#35658C"/>
   <text x="628" y="158" font-size="9" letter-spacing="1.4" fill="#67B4FF">LATEST SHIP</text>
-  <text x="628" y="190" font-size="19" fill="#E3EDF5">reposcout</text>
-  <text x="628" y="211" font-size="9" fill="#637A8E">MOST RECENTLY PUSHED PUBLIC PROJECT · 2026-09-24</text>
+  <text x="628" y="190" font-size="19" fill="#E3EDF5">Portofolio</text>
+  <text x="628" y="211" font-size="9" fill="#637A8E">MOST RECENTLY PUSHED PUBLIC PROJECT · 2026-09-25</text>
 </g>
 
 <line x1="34" y1="252" x2="1166" y2="252" stroke="#213547"/>
-<text x="34" y="276" font-family="Consolas,monospace" font-size="9" fill="#51687B">GITHUB REST API / UPDATED 2026-09-24</text>
+<text x="34" y="276" font-family="Consolas,monospace" font-size="9" fill="#51687B">GITHUB REST API / UPDATED 2026-09-25</text>
 <text x="1166" y="276" text-anchor="end" font-family="Consolas,monospace" font-size="9" fill="#51687B">SR / SYSTEM 001</text>
 </svg>
