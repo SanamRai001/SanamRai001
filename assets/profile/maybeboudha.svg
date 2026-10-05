@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="280" viewBox="0 0 580 280">
+<defs>
+  <linearGradient id="b" x1="0" x2="1" y2="1"><stop stop-color="#0C0B09"/><stop offset="1" stop-color="#17120C"/></linearGradient>
+  <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#E4C98C" stroke-opacity=".04"/></pattern>
+</defs>
+<rect width="580" height="280" rx="20" fill="url(#b)"/><rect width="580" height="280" rx="20" fill="url(#g)"/>
+<rect x="1" y="1" width="578" height="278" rx="19" fill="none" stroke="#E0B96A" stroke-opacity=".18"/>
+<g font-family="Consolas,monospace" font-size="11" letter-spacing="1.6"><text x="28" y="34" fill="#E0B96A">HERITAGE / 003</text><text x="455" y="34" fill="#7D7258">3D WEB</text></g>
+<text x="28" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" fill="#F6F3EB">MaybeBoudha</text>
+<text x="28" y="109" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#9F998C">Browser-based digital heritage and 3D reconstruction study.</text>
+<g transform="translate(352 64)" fill="none">
+  <path d="M88 20L107 52H69Z" stroke="#D7B566"/><path d="M76 52H100L108 72H68Z" stroke="#D7B566"/>
+  <path d="M55 86C55 55 121 55 121 86" stroke="#E0B96A" stroke-width="2"/>
+  <path d="M34 120H142M47 102H129M60 86H116" stroke="#8B764E"/>
+  <circle cx="88" cy="120" r="44" stroke="#5E5136"/><path d="M44 120H132" stroke="#5E5136"/>
+  <circle cx="88" cy="102" r="3" fill="#E0B96A" stroke="none"/>
+</g>
+<g font-family="Consolas,monospace" font-size="11"><text x="28" y="188" fill="#827760">PIPELINE</text><text x="28" y="211" fill="#D6CCB0">CAPTURE → RECONSTRUCT → LOD → DELIVER</text><text x="28" y="236" fill="#827760">REACT / THREE.JS / SPARK / PAGED RAD</text></g>
+<line x1="28" y1="252" x2="552" y2="252" stroke="#392F19"/><text x="28" y="270" font-family="Consolas,monospace" font-size="9" fill="#655D4B">PERFORMANCE / PROVENANCE / VISUAL EXPERIMENTS / MOBILE</text>
+</svg>
