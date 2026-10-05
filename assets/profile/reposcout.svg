@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="280" viewBox="0 0 580 280">
+<defs>
+  <linearGradient id="b" x1="0" x2="1" y2="1"><stop stop-color="#090C11"/><stop offset="1" stop-color="#0A1520"/></linearGradient>
+  <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A3C7EA" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="580" height="280" rx="20" fill="url(#b)"/><rect width="580" height="280" rx="20" fill="url(#g)"/>
+<rect x="1" y="1" width="578" height="278" rx="19" fill="none" stroke="#65B6FF" stroke-opacity=".2"/>
+<g font-family="Consolas,monospace" font-size="11" letter-spacing="1.6"><text x="28" y="34" fill="#65B6FF">DISCOVERY / 002</text><text x="444" y="34" fill="#65798E">FULL STACK</text></g>
+<text x="28" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" fill="#F2F6FA">RepoScout</text>
+<text x="28" y="109" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#8899AA">Repository discovery beyond popularity-first ranking.</text>
+<g transform="translate(338 69)" fill="none" stroke="#4D8FCB" stroke-width="1.2">
+  <circle cx="38" cy="42" r="26"/><circle cx="118" cy="22" r="16"/><circle cx="156" cy="88" r="20"/><circle cx="83" cy="118" r="13"/>
+  <path d="M59 35L103 25M58 58L141 82M51 64L77 108M130 36L149 70M96 111L141 94"/>
+  <g fill="#0B1118" stroke="#65B6FF"><circle cx="38" cy="42" r="5"/><circle cx="118" cy="22" r="5"/><circle cx="156" cy="88" r="5"/><circle cx="83" cy="118" r="5"/></g>
+</g>
+<g font-family="Consolas,monospace" font-size="11"><text x="28" y="188" fill="#60758A">SIGNALS</text><text x="28" y="211" fill="#C6D3DF">SEARCH → FILTER → INSPECT → CURATE</text><text x="28" y="236" fill="#6D8093">TYPESCRIPT / REACT / EXPRESS / POSTGRESQL</text></g>
+<line x1="28" y1="252" x2="552" y2="252" stroke="#233649"/><text x="28" y="270" font-family="Consolas,monospace" font-size="9" fill="#4F657A">INGESTION / MODERATION / REPOSITORY INTELLIGENCE / TESTING</text>
+</svg>
