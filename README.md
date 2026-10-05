@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/branding/sanam-rai-main-logo.svg" width="96%" alt="Sanam Rai — Backend · Systems · AI"/>
+  <img src="./assets/branding/sanam-rai-main-logo.svg" width="96%" alt="Sanam Rai — Full-Stack · Systems · AI"/>
 </p>
 
 <p align="center">
@@ -18,16 +18,16 @@
 
 ## `01 / PROFILE`
 
-I’m a **backend-first full-stack developer** from Nepal. I enjoy the part of software engineering where an idea stops being a screen and starts becoming a **system** — domain rules, data models, APIs, failure cases, security boundaries, workflows, and the architecture that holds everything together.
+I’m a **full-stack developer** from Nepal building real products across frontend, backend, APIs, databases, testing, and deployment.
 
-I work across the stack when the product needs it, but I’m especially interested in **backend architecture, databases, real operational software, RAG, retrieval, grounding, and AI system design**.
+I work mainly with **TypeScript/JavaScript, Node.js, React, PostgreSQL/MySQL, and REST APIs**. I enjoy working across the stack, but I’m especially interested in **backend architecture, authentication, database design, system design, security, and AI/LLM systems**.
 
-> **Current principle:** build software that stays useful after the demo is over.
+> **Current principle:** make complex systems feel simple without hiding the engineering that makes them reliable.
 
 ```text
-SYSTEMS       APIs · architecture · databases · workflows
-PRODUCTS      real users · real constraints · full-stack delivery
-INTELLIGENCE  RAG · retrieval · grounding · evaluation · agents
+FULL STACK     product UI · APIs · data · delivery
+SYSTEMS        architecture · auth · databases · workflows
+INTELLIGENCE   RAG · retrieval · grounding · evaluation · agents
 ```
 
 <br/>
@@ -38,14 +38,14 @@ INTELLIGENCE  RAG · retrieval · grounding · evaluation · agents
   <a href="https://github.com/SanamRai001/knowledge-ai">
     <img src="./assets/profile/knowledge-ai.svg" width="49%" alt="Knowledge AI project"/>
   </a>
-  <a href="https://github.com/SanamRai001/KrishiBazar">
-    <img src="./assets/profile/krishi.svg" width="49%" alt="Krishi Bazar project"/>
+  <a href="https://github.com/SanamRai001/reposcout">
+    <img src="./assets/profile/reposcout.svg" width="49%" alt="RepoScout project"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SanamRai001/YakTalk-chatapp">
-    <img src="./assets/profile/yaktalk.svg" width="49%" alt="YakTalk project"/>
+  <a href="https://github.com/SanamRai001/MaybeBoudha">
+    <img src="./assets/profile/maybeboudha.svg" width="49%" alt="MaybeBoudha project"/>
   </a>
   <a href="https://github.com/SanamRai001/rag-from-scratch">
     <img src="./assets/profile/rag-lab.svg" width="49%" alt="RAG from Scratch project"/>
@@ -56,13 +56,13 @@ INTELLIGENCE  RAG · retrieval · grounding · evaluation · agents
 <summary><b>Project notes</b></summary>
 <br/>
 
-**Knowledge AI** — a document-grounded assistant built around retrieval, reranking, evidence sufficiency, citations, abstention, graph/hierarchical retrieval experiments, multilingual queries, and evaluation tooling.
+**Knowledge AI** — a private company intelligence platform built around evidence-backed Ask, retrieval, citations, abstention, structured analytics, safe actions, watch rules, integrations, controlled automation, multi-tenancy, and production hardening.
 
-**Krishi Bazar** — a deployed agricultural marketplace with authentication, search/filter/sort, cart, checkout, orders, React, Node.js, Express, and MongoDB. [Live demo](https://krishi-bazar-alpha.vercel.app)
+**RepoScout** — a full-stack repository discovery and repository-intelligence platform using structured search, ingestion, moderation, repository signals, and PostgreSQL-backed discovery instead of popularity alone.
 
-**YakTalk** — a real-time chat application with authenticated WebSocket connections, presence, private messaging, HTTP-only cookie sessions, React, Express, Socket.IO, and MongoDB. [Live demo](https://yaktalk-chatapp-1.onrender.com)
+**MaybeBoudha** — an experimental browser-based digital-heritage project exploring Boudhanath reconstruction, Three.js/Spark rendering, point-cloud and surface experiments, progressive delivery, and mobile-aware presentation. [Live prototype](https://maybeboudha.run.place/)
 
-**RAG from Scratch** — a learning lab for understanding ingestion, chunking, embeddings, retrieval, similarity, grounding, and how retrieval quality changes generated answers.
+**RAG from Scratch** — a learning lab for understanding chunking, embeddings, vector search, retrieval, grounding, and how retrieval quality changes generated answers.
 
 </details>
 
@@ -74,7 +74,7 @@ INTELLIGENCE  RAG · retrieval · grounding · evaluation · agents
   <img src="./assets/profile/build-loop.svg" width="100%" alt="Sanam Rai engineering build loop"/>
 </p>
 
-I care about **clear boundaries, useful documentation, honest failure handling, and architecture that can grow** without turning every new requirement into a rewrite.
+I care about **clear boundaries, useful documentation, honest failure handling, maintainable code, and architecture that can grow** without making the product harder to use.
 
 <br/>
 
@@ -85,7 +85,7 @@ I care about **clear boundaries, useful documentation, honest failure handling, 
 </p>
 
 <sub>
-I choose tools based on the system, not the badge wall. The technologies above are the ones I currently reach for most often.
+Tools change. I care more about choosing the right boundary, data model, failure behavior, and user flow than collecting technologies.
 </sub>
 
 <br/>
@@ -114,14 +114,14 @@ Stars, followers, public repositories, and the most recently pushed public proje
 
 <br/>
 
-## `07 / CURRENT SIGNAL`
+## `07 / CURRENT FOCUS`
 
 ```text
-AI / KNOWLEDGE
-├─ trustworthy retrieval and citation systems
-├─ hybrid search, reranking and grounding
-├─ evaluation over "it feels good"
-└─ agents with sensible human control
+FULL-STACK / PRODUCT
+├─ simple, accessible user flows
+├─ frontend + backend integration
+├─ testing and deployment
+└─ production-oriented delivery
 
 BACKEND / SYSTEMS
 ├─ domain modeling and API boundaries
@@ -129,11 +129,11 @@ BACKEND / SYSTEMS
 ├─ authentication, permissions and tenancy
 └─ operational workflows that survive edge cases
 
-LEARNING / DEPTH
-├─ AI architecture from first principles
-├─ system design and databases
-├─ security fundamentals
-└─ understanding why the abstraction works
+AI / KNOWLEDGE
+├─ trustworthy retrieval and citation systems
+├─ hybrid search, reranking and grounding
+├─ evaluation over "it feels good"
+└─ agents with sensible human control
 ```
 
 <br/>
@@ -141,7 +141,7 @@ LEARNING / DEPTH
 ## `08 / FOUNDATIONS`
 
 **Harvard CS50x** — Introduction to Computer Science  
-**Harvard CS50P** — Introduction to Programming with Python  
+**Harvard CS50P** — CS50's Introduction to Programming with Python  
 **PortSwigger Web Security Academy** — SQL injection labs
 
 <br/>
@@ -153,7 +153,7 @@ LEARNING / DEPTH
 </p>
 
 <p align="center">
-  <sub>SR / 001 · official identity system</sub>
+  <sub>SR / 001 · personal identity system</sub>
 </p>
 
 <details>
@@ -174,7 +174,7 @@ LEARNING / DEPTH
   <sub>SYSTEM / 001 — SANAM RAI</sub>
 </p>
 
-<h3 align="center">Build. Learn. Improve.</h3>
+<h3 align="center">Build · Scale · Solve</h3>
 
 <p align="center">
   <a href="https://sanam-rai.com.np">Portfolio</a>
