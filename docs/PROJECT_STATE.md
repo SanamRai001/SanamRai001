@@ -43,3 +43,29 @@ No production application tests are required for this profile-only repository.
 1. Merge PR #7 into the repository default branch (`master`).
 2. Verify the default-branch README and profile assets resolve after merge.
 3. Review account-level GitHub bio, website/location, and pinned repositories.
+
+---
+
+## Update — 2026-10-21 (evidence-based profile system)
+
+### Goal
+Replace the card/badge-driven profile with a concise, evidence-first README, a checkable engineering roadmap, and a weekly progress log.
+
+### Changes
+- PR #8 (squash `1c83bde`) rebuilt `README.md`, and added `ROADMAP.md` and `PROGRESS.md`.
+- Selected work is now a four-row evidence table: RepoScout, StateScout, DevFoundation, MaybeBoudha. KrishiBazar is retained as honest earlier work.
+- Excluded by owner decision: `knowledge-ai` (a fork of `dev-arch-sudo/knowledge-ai`) and `FMS` (owned by another account). Neither may be presented as personal work without explicit authorization.
+- Removed from the README: streak/visitor/view-counter badges, typing and capsule-render headers, the status table, and the image-only Build Loop, Toolkit and Signal sections. Branding assets remain in `assets/`.
+
+### Superseded statements
+- The verification note above ("signal paths were not renamed or removed") and the risk note ("automation continues to refresh signal assets on `master`") described their own phase. They no longer hold after the change below.
+
+### This change (`chore/retire-signal-automation`)
+- The rewritten README displays no generated signal images, so the daily job only produced two invisible files. Retired:
+  - `.github/workflows/build-signal.yml` (daily 00:17 UTC commit loop)
+  - `scripts/generate-contributions.mjs` (verified to write only the two SVGs below)
+  - `assets/profile/build-signal.svg`, `assets/profile/live-signal.svg`
+- No remaining file references either SVG. Recoverable from git history if the signals are ever shown again.
+
+### Follow-up (outside this repository)
+- Account bio and four pinned repositories are set manually on GitHub; the API does not support pinned repositories.
